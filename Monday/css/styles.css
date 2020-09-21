@@ -1,0 +1,38 @@
+body {
+    background-image: url("youtubemovies.jpg");
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(82, 212, 111);
+}
+img {
+    width : 65%;
+    height : 65%;
+    display: block;
+    margin: 0
+}
+body h1{
+    font-size : 28px;
+    color: red;
+    font-family: 'Ranchers', cursive;
+    text-shadow: 3px 3px 1px wheat;
+}
+body h2{
+    color: red;
+    font-family: 'Ranchers', cursive;
+}
+body h3{
+    font-size: 22px;
+    color: #FF4500
+}
+body p{
+    font-size: 20PX;
+    color:#E71989;
+    font-family: 'Grandstander', cursive;
+}
+ul li{
+    font-size: 18px;
+    color: greenyellow;
+    font-family: 'Grandstander', cursive;
+}
+footer{
+    font-size: 12px
+}
