@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    margin: 20px;
+    padding: 0 20px 20px 20px;
+    border: 30px solid goldenrod
+}
+table {
+    border:1px solid black;
+    position:relative;
+    width: 100%
+}
+th, td{
+    border: 1px solid black
+}
+#red_line th {
+    background-color:red; 
+    color:red 
+}
+#yellow_line th {
+    background-color:yellow;
+    color: yellow  
+}
+#green_line th {
+    background-color: green;  
+    color:green
+}
+#blue_line th {
+    background-color:blue;  
+    color:blue
+}
+.white_square{
+    background-color: white;
+    width: 10px;
+    height: 10px;
+}
+.black {
+    width: 153px; 
+    position: absolute;
+    top: 50px; 
+    left: 177px;
+    height: 48px;
+    background-color: black;
+}
+.space_bar{
+    position: absolute;
+    background-color: gray;
+    top: 930px;
+    left: 600px;
+    width: 250px;
+    height:20px
+}
