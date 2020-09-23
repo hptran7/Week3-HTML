@@ -45,8 +45,4 @@
     #image_container{
         flex-direction: column;
     }
-    #image_container label{
-        margin:0px;
-        background-color: red
-    }
 }
